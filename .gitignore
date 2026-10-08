@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated temporary files
+tmp_*.png
+
+# Data
+data/*.zip
+data/*.pkl
+data/*.pkl.gz
+data/*.xls
+
+# OS
+.DS_Store

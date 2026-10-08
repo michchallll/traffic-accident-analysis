@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+requests
+beautifulsoup4
+pytest
+lxml
+geopandas
+contextily
+shapely
+scikit-learn
+scipy
+jupyter

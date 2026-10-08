@@ -86,9 +86,14 @@ The statistical analysis includes:
 
 ## Example Outputs
 
-### Geographic Analysis
+### Part 1 – NumPy and Matplotlib
 
-Add image here:
+![Part 1 visualization](part01/figures/sinus_graph.png)
 
-```text
-final/figures/geo1.png
+### Part 2 – Traffic Accident Analysis
+
+![Traffic accident analysis](part02/figures/01_state.png)
+
+### Final Project – Geospatial Analysis
+
+![Geospatial accident analysis](final/figures/geo2.png)
